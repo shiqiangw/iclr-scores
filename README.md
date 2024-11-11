@@ -1,4 +1,4 @@
-# ICLR 2024 Scores from OpenReview
+# ICLR Scores from OpenReview
 
 A simple script to extract scores of publicly available ICLR submissions from OpenReview.
 
